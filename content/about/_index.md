@@ -1,6 +1,6 @@
 ---
 title: "about"
-date: 2020-10-20T17:51:47+03:30
+date: 2023-7-9T17:51:47+03:30
 draft: false
 headless: true
 
@@ -11,11 +11,7 @@ cv: "cv.pdf"
 blog: true
 
 socials:
-    twitter: "None"
     github: "puyanguvic"
-    facebook: "None"
-    linkedin: "None"
-    twitch: "None"
     google_scholar: "None"
 
 interests:
@@ -27,7 +23,7 @@ interests:
 affiliations:
     - affiliation:
         title: "Ph.D."
-        name: "University of Victoria"
+        name: "University of Victoria, Victoria, BC, Canada"
         email: "puyang@uvic.ca"
 
 academia:
@@ -52,10 +48,6 @@ academia:
         other_info: 'Bachelor Thesis: The Website Design and Implementation Based on Spring MVC framework'
 ---
 
-**Donec** sollicitudin, [ante][1] pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, tincidunt sed mi. In at dui lectus. Integer ante arcu, vestibulum fermentum ante eu, maximus maximus quam. Curabitur placerat cursus posuere. Phasellus dui lorem, varius a augue non, eleifend accumsan mauris. Aenean varius posuere feugiat. In hac habitasse platea dictumst. Aenean quis ex quis nisl consequat fermentum in vitae nunc. Proin consectetur ac nulla in tempus. Maecenas enim nisi, pulvinar sit amet fermentum eget, ultrices vitae enim. Etiam vel sollicitudin felis.
+**Introduction** I am a Ph.D. student in the Department of Electrical Computer Engineering at the University of Victoria, BC, Canada, adviced by [Dr. Lin Cai][1], I obtained my MSc in Computer Technolgy from Northwestian pologytechnolgiy Univeristy, Xi'an China, and BEng in Software Engineering from the same University. My research is focused on the analysis and design of Network Protocol and Wireless Communication. I am espicially intrested in fundamental problems in network routing.
 
-
-Donec sollicitudin, ante pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, 
-
-
-[1]: ahadsfsa.com
+[1]: https://www.ece.uvic.ca/~cai/
