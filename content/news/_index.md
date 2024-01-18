@@ -8,9 +8,12 @@ headless: true
 show_news_icons: true
 default_news_icon: "file-text"
 
-num_news: 4
+num_news: 5
 
 news_items:
+- text: "Our paper is accepted by IEEE INFOCOM 2024"
+  extra_text: "Dec 2023."
+  date: 2024-Jan-15
 - text: "Our paper is accepted by IEEE MASS 2023"
   extra_text: "June 2023."
   date: 2023-07-09

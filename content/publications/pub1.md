@@ -1,17 +1,13 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "Congestion-aware delay-guaranteed scheduling and routing with renewal optimizaiton"
 authors:
-- Your Full Name
-- Another Researcher
-date: "2018-09-01"
+- Pu Yang
+- Xiangyu Ren, Lin Cai, Jiequ Ji
+date: "2023-06-08"
 
-publication: "Journal of Machine Learning"
+publication: "Computer Networks"
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
-
+    pdf: https://www.sciencedirect.com/science/article/pii/S1389128623003080
 ---
 

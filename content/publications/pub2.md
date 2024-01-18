@@ -1,15 +1,13 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "DGR: Delay-Guaranteed Routing Protocol"
 authors:
-- Your Full Name
-- Author Name
-date: "2016-09-01"
+- Pu Yang
+- Lin Cai
+- Tianfang Chang
+date: "2023-09-20"
 
-publication: "Journal of Machine Learning"
+publication: "IEEE International Conference on Mobile Ad Hoc and Smart Systems (MASS)"
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10298472
 ---
