@@ -11,6 +11,9 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: "Volunteer of IEEE INFOCOM 2024"
+  extra_text: "May 2024."
+  date: 2024-Jan-15
 - text: "Our paper is accepted by IEEE INFOCOM 2024"
   extra_text: "Dec 2023."
   date: 2024-Jan-15
