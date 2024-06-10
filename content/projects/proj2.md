@@ -3,3 +3,7 @@ title: "Wireless Avionics Intra-Communications (WAIC) System (下一代民用飞
 
 date: "2018.12 - 2019.12"
 
+links:
+    website: 'https://github.com/hadisinaee/avicenna'
+    alias: link_name_here
+---
