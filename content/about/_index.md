@@ -15,10 +15,11 @@ socials:
     google_scholar: "None"
 
 interests:
-    - Network Routing
-    - Delay Guaranteed Routing
-    - Network Simulation
+    - Network Routing Protocols
+    - Network Delay Guarantee
+    - 6G Network Architecture
     - Machine learning
+    - Wireless Communication
 
 affiliations:
     - affiliation:
@@ -48,6 +49,7 @@ academia:
         other_info: 'Bachelor Thesis: The Website Design and Implementation Based on Spring MVC framework'
 ---
 
-**Introduction** I am a Ph.D. student in the Department of Electrical Computer Engineering at the University of Victoria, BC, Canada, adviced by [Dr. Lin Cai][1], I obtained my MSc in Computer Technolgy from Northwestian pologytechnolgiy Univeristy, Xi'an China, and BEng in Software Engineering from the same University. My research is focused on the analysis and design of Network Protocol and Wireless Communication. I am espicially intrested in fundamental problems in network routing.
+**Introduction** I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at the University of Victoria, BC, Canada, under the supervision of [Dr. Lin Cai][1]. I obtained my MSc in Computer Technology from Northwestern Polytechnical University, Xi'an, China, under the supervision of [Dr. Shining Li][2], where I also earned my BEng in Software Engineering. My current research areas include the analysis and design of network protocols, network protocols for data center networks, and distributed machine learning, with a special focus on the analysis and optimization of data-intensive services. I have a particular interest in fundamental research in computer networks. I am also a student member of IEEE.
 
 [1]: https://www.ece.uvic.ca/~cai/
+[2]: https://teacher.nwpu.edu.cn/en/lishining.html
