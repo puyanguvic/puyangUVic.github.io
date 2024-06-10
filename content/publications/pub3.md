@@ -9,5 +9,5 @@ date: "2024-01-15"
 publication: "IEEE INFOCOM"
 
 links:
-    pdf: comming soon
+    pdf[comming soon]: (https://www.ece.uvic.ca/~cai/infocom24.pdf)
 ---
